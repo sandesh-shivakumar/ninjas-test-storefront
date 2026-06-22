@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/sandesh-shivakumar/ninjas-test-storefront/
+    type: markup
+
+folders:
+  /products/: /products/default
